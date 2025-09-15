@@ -40,7 +40,10 @@ Fluxo principal:
 ---
 
 ## 🗂 Estrutura do Repositório
-.
+├── README.md # Documentação do projeto
+└── images/ # Diagramas da arquitetura
+├── Desafio-S3.jpg
+└── Desafio-EC2.jpg
 
 ---
 
