@@ -35,7 +35,7 @@ Fluxo principal:
 4. Dados estruturados são armazenados no **Amazon RDS**.
 5. Os resultados podem ser salvos em outro **EBS (E-EBS)** para persistência.
 
-![Arquitetura EC2-EBS-RDS](images/Desafio.jpg)
+![Arquitetura EC2-EBS-RDS](images/Desafio-EC2.jpg)
 
 ---
 
